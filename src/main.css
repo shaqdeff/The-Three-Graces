@@ -304,12 +304,12 @@ nav.header .a:hover ~ .cursor {
 
 .hero {
   pointer-events: none;
-  font-size: 2em;
+  font-size: 2.4em;
   letter-spacing: 0.5em;
   text-align: center;
   width: 100%;
   display: flex;
-  height: 110vh;
+  height: 114vh;
   align-content: center;
   justify-content: flex-end;
   align-items: center;
@@ -352,10 +352,10 @@ nav.header .a:hover ~ .cursor {
   font-size: 16px;
   letter-spacing: 0px;
   font-family: sans-serif;
-  width: 700px;
+  width: 780px;
   line-height: 28px;
   font-weight: lighter;
-  margin-top: 50px;
+  margin-top: 70px;
   margin-bottom: 100px;
   color: #c9c9c996;
   opacity: 0;
