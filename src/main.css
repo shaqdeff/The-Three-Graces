@@ -156,7 +156,7 @@ span {
   top: 10px;
   left: 10px;
   padding: 10px;
-  background-color: #adadade9;
+  background-color: #909090ef;
   border-radius: 50%;
   transform: translate(-50%, -50%);
   mix-blend-mode: difference;
@@ -174,13 +174,13 @@ span {
   transition: all 0.3s ease, color 0.3s ease;
 }
 
-nav .header.a:hover {
+nav.header .a:hover {
   cursor: pointer;
   color: rgb(175, 175, 175);
   transform: scale(1.1);
 }
 
-nav .header.a:hover ~ .cursor {
+nav.header .a:hover ~ .cursor {
   transform: translate(-50%, -50%) scale(5);
   opacity: 0.1;
 }
