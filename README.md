@@ -2,6 +2,8 @@
 
 This is a single page site based on Tom Bogner's Dribbble shot [The Three Graces](https://dribbble.com/shots/6767548-The-Three-Graces-Concept). It utilizes Three.js to render the 3D model and apply the spotlight effect.
 
+![three-graces](https://github.com/shaqdeff/The-Three-Graces/assets/92020713/b375390a-b4ef-432f-b21a-1f37899bedbd)
+
 ## Built With
 
 - Three.js
