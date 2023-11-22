@@ -34,7 +34,7 @@ git clone https://github.com/shaqdeff/The-Three-Graces.git
 - Once the files are on your machine, open the **Next-Internalization** folder in [Visual Studio Code](https://code.visualstudio.com/download).
 
 ```
-cd Next-Internalization && code .
+cd The-Three-Graces && code .
 ```
 
 ## Install
@@ -55,7 +55,7 @@ This will install all the packages and dependencies used in the project.
 npm run dev
 ```
 
-This will open up the project on a browser on `http://localhost:3000/en`
+This will open up the project on a browser on `http://localhost:8080` / `http://192.168.0.12:8080/`
 
 ## Build
 
