@@ -168,9 +168,9 @@ span {
   display: inline-block;
   color: #fff;
   padding: 1rem;
-  margin-right: 4rem;
+  margin-right: 0.3rem;
   letter-spacing: 0.4em;
-  font-size: 1em;
+  font-size: 1.3em;
   transition: all 0.3s ease, color 0.3s ease;
 }
 
